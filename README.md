@@ -2,6 +2,8 @@
 
 ![Status](https://img.shields.io/badge/status-finalizado-brightgreen)
 ![Kotlin](https://img.shields.io/badge/language-Kotlin-blue)
+![Atualizado](https://img.shields.io/badge/Atualizado-2025-brightgreen)
+
 
 Projeto simples desenvolvido em **Kotlin** para gerar acrônimos automaticamente a partir de frases, com remoção de pontuação e suporte a hífens.
 
